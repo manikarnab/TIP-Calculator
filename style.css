@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+}
+.conatiner{
+    width: 109%;
+    max-width: 403px;
+    text-align: center;
+    padding: 147px 558px;
+    background-color: #5d162a;
+   
+}
+#calculator{
+    padding: 21px 8px;
+}
+p{
+    font-size: 26px;
+    padding: 19px 0px;
+}
+#billamt{
+    font-size: 22px;
+}
+h1{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #3b0606;
+    color: white;
+    letter-spacing: 5px;
+}
+
+#serviceQual{
+    font-size: 22px;
+
+}
+input{
+    font-size: 21px;
+
+}
+
+#calculate{
+    font-size: 25px;
+    padding: 0px 3px;
+    margin: 29px 4px;
+    color: white;
+    background-color: red;
+
+}
+
+#totalTip{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 38px;
+}
